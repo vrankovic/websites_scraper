@@ -5,3 +5,4 @@ __pycache__/
 websites_scraper/__pycache__
 websites_scraper/modules/__pycache__
 websites_scraper/spiders/__pycache__
+.idea/
