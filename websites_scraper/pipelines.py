@@ -7,6 +7,7 @@
 from .modules.utils import get_data_from_conf_file
 import json
 
+
 class WebsitesScraperPipeline(object):
     @classmethod
     def from_crawler(cls, crawler):
